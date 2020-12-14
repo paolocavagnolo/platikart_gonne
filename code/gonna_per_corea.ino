@@ -3,8 +3,8 @@
 
 #define runPin CONTROLLINO_D1
 #define velPin CONTROLLINO_D2
-#define ledPin CONTROLLINO_D3 //modified!!!! before was D4
-#define ebPin CONTROLLINO_D4 //NEW!!
+#define ledPin CONTROLLINO_D4
+#define ebPin CONTROLLINO_D0 //NEW!!
 
 #define senPin CONTROLLINO_A2
 #define powPin CONTROLLINO_A4
